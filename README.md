@@ -67,8 +67,10 @@ Main dependencies (excerpt):
 - The full source code remains private
 
 ## License & Contact
+- License: see [LICENSE](LICENSE)
+- Privacy: see [PRIVACY.md](PRIVACY.md)
 - Repository content license: © 2025 EcoTrackr — All rights reserved
 - TestFlight/demo or private code access: on request
-- Contact: razdinesaid [at] gmail [dot] com
+- Contact: saidrazdine@gmail.com
 
 <!-- The default Flutter README scaffold was removed for clarity in this public portfolio. -->
